@@ -1,0 +1,44 @@
+/*
+ * ChatGPT was used as an assistant while developing this lab.
+ */
+body {
+    margin: 20px;
+    font-family: Arial, sans-serif;
+}
+
+.controls {
+    margin-bottom: 20px;
+}
+
+.controls label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.controls input {
+    margin-right: 5px;
+}
+
+.message {
+    min-height: 24px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+.game-area {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.memory-button {
+    width: 10em;
+    height: 5em;
+    font-size: 1rem;
+    border: 1px solid black;
+    cursor: pointer;
+}
+
+.memory-button:disabled {
+    cursor: default;
+}
