@@ -191,7 +191,7 @@ class WriterApp {
 
 
         setInterval(
-            () => this.saveNotes(),
+            () => this.saveIfNeeded(),
             SAVE_INTERVAL
         );
     }
