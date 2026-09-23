@@ -1,5 +1,5 @@
 /*
-ChatGPT was used as an assistance while developing this lab.
+ChatGPT was used as an assistant while developing this lab.
 */
 
 import { USER_MESSAGES } from "../lang/messages/en/user.js";

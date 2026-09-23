@@ -1,6 +1,5 @@
 /*
-ChatGPT was used for guidance and explanation while developing this lab.
-I reviewed and understand the submitted code.
+ChatGPT was used as an assistant while developing this lab.
 */
 
 import { USER_MESSAGES } from "../lang/messages/en/user.js";
