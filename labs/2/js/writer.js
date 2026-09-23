@@ -190,7 +190,7 @@ class WriterApp {
         );
 
 
-        setInterval(
+      setInterval(
             () => this.saveIfNeeded(),
             SAVE_INTERVAL
         );
